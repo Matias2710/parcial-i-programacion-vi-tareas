@@ -1,0 +1,1 @@
+const {defineConfig}=require('@playwright/test');module.exports=defineConfig({testDir:'tests/e2e',workers:1,timeout:90000,use:{baseURL:'http://127.0.0.1:4205',trace:'retain-on-failure'},reporter:[['list'],['json',{outputFile:'evidencias/playwright.json'}]],outputDir:'.local/test-results'});

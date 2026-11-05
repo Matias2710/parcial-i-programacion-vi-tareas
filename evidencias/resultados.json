@@ -1,0 +1,68 @@
+{
+  "fecha": "2026-11-05T11:03:10.915Z",
+  "resumen": {
+    "startTime": "2026-11-05T11:03:10.915Z",
+    "duration": 29904.378,
+    "expected": 5,
+    "skipped": 0,
+    "unexpected": 0,
+    "flaky": 0
+  },
+  "unitarias": {
+    "aprobadas": 6,
+    "fallidas": 0,
+    "fuente": "unit.trx (local)"
+  },
+  "escenarios": [
+    {
+      "escenario": "API real: CRUD, BSON, validación, LINQ, orden y errores",
+      "estado": "expected",
+      "resultados": [
+        {
+          "estado": "passed",
+          "duracionMs": 868
+        }
+      ]
+    },
+    {
+      "escenario": "Flujo completo y persistencia 375",
+      "estado": "expected",
+      "resultados": [
+        {
+          "estado": "passed",
+          "duracionMs": 4438
+        }
+      ]
+    },
+    {
+      "escenario": "Flujo completo y persistencia 768",
+      "estado": "expected",
+      "resultados": [
+        {
+          "estado": "passed",
+          "duracionMs": 4192
+        }
+      ]
+    },
+    {
+      "escenario": "Flujo completo y persistencia 1366",
+      "estado": "expected",
+      "resultados": [
+        {
+          "estado": "passed",
+          "duracionMs": 4577
+        }
+      ]
+    },
+    {
+      "escenario": "Scalar visible",
+      "estado": "expected",
+      "resultados": [
+        {
+          "estado": "passed",
+          "duracionMs": 2646
+        }
+      ]
+    }
+  ]
+}

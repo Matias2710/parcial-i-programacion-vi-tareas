@@ -1,0 +1,2 @@
+import {Component} from '@angular/core';import {TaskListComponent} from './components/task-list';
+@Component({selector:'app-root',imports:[TaskListComponent],template:`<nav class="brand"><span class="brand-icon">✓</span><strong>En orden</strong><span>Gestión de tareas</span></nav><main><app-task-list/></main><footer>Un paso a la vez.</footer>`}) export class AppComponent {}

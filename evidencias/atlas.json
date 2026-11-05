@@ -1,0 +1,28 @@
+{
+  "fecha": "2026-11-05T05:38:49.340Z",
+  "database": "ParcialITareas",
+  "coleccion": "Tareas",
+  "pruebas": [
+    {
+      "prueba": "Lectura Atlas",
+      "documentos": 3
+    },
+    {
+      "prueba": "POST y BSON directo",
+      "resultado": "aprobada"
+    },
+    {
+      "prueba": "PUT y persistencia directa",
+      "resultado": "aprobada"
+    },
+    {
+      "prueba": "LINQ combinado en Atlas",
+      "resultado": "aprobada"
+    },
+    {
+      "prueba": "DELETE directo",
+      "resultado": "aprobada"
+    }
+  ],
+  "documentosFinales": 3
+}

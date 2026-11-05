@@ -1,0 +1,2 @@
+export interface Tarea { id:string; titulo:string; descripcion:string; fechaLimite:string|null; prioridad:number; completada:boolean; fechaCreacion:string; fechaActualizacion:string; }
+export type Entrada = Pick<Tarea,'titulo'|'descripcion'|'fechaLimite'|'prioridad'|'completada'>;

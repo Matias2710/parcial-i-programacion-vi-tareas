@@ -1,0 +1,15 @@
+**/bin/
+**/obj/
+**/node_modules/
+**/.angular/
+**/dist/
+.local/
+.env
+*.trx
+*.log
+test-results/
+playwright-report/
+
+evidencias/playwright.json
+**/.vscode/
+.env.*
