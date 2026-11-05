@@ -96,7 +96,7 @@ La batería comprueba códigos HTTP, CRUD, BSON, filtros combinados, orden exact
 ![Formulario](evidencias/02-formulario-tarea.png)
 ![Completada persistente](evidencias/03-tarea-completada.png)
 
-Estado exacto de resultados en PROGRESO.md y evidencias/playwright.json.
+Verificación final: 6 unitarias y 5 escenarios integración/E2E aprobados, cinco comprobaciones Atlas y carga demo idempotente. Resumen público en evidencias/resultados.json; reporte detallado playwright.json y TRX conservados localmente. Repositorio: https://github.com/Matias2710/parcial-i-programacion-vi-tareas.
 
 ## Alcance y referencias
 
@@ -106,3 +106,4 @@ Aplicación personal en loopback, sin autenticación multiusuario ni paginación
 - [Scalar ASP.NET Core](https://scalar.com/docs-for/dotnet).
 - [LINQ MongoDB](https://www.mongodb.com/docs/drivers/csharp/current/aggregation/linq/).
 - [Playwright](https://playwright.dev/docs/intro).
+

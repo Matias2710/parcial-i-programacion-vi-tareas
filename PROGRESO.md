@@ -21,7 +21,7 @@ Actualización: 5 de noviembre de 2026. Proyecto independiente del trabajo anter
 | Evidencias | Tres capturas exigidas y adicionales de responsive/Scalar, todas obtenidas con Chromium real. |
 | Desde cero | Dependencias reinstaladas con npm ci, build y unitarias correctos; batería final arranca sus propios servicios, limpia solo ParcialI_Automated y los detiene. |
 | Documentación | README con ejecución independiente de secretos de sesión, endpoints, reglas, pruebas y capturas. |
-| GitHub | Preparado para publicación pública en Matias2710; pendiente verificar remoto. |
+| GitHub | Publicado y verificado público: https://github.com/Matias2710/parcial-i-programacion-vi-tareas. Código de referencia bb6f0d250ff369fd44370cd75bc69900d54f8c99; remoto comprobado. |
 | Presentación académica | No enviada a Moodle. El documento no confirma permiso de IA y contiene fecha contradictoria; no se presume autorización para presentar el parcial. |
 
 ## Correcciones verificadas
@@ -38,3 +38,10 @@ Actualización: 5 de noviembre de 2026. Proyecto independiente del trabajo anter
 Portada con III cuatrimestre 2026 y fecha 26/06/2025; fecha vigente no confirmada. No consta prohibición explícita de IA en el DOCX, pero tampoco permiso específico para rendir el parcial con ella. Desarrollo con asistencia declarada; presentación académica fuera de esta entrega automática.
 
 Aplicación personal en loopback. No incorpora cuentas multiusuario ni despliegue público. No son requisitos del enunciado. Los datos son ficticios; secretos de Atlas fuera del repositorio. No se modificó la colección Ventas del proyecto anterior.
+
+## Cierre
+
+Aplicación disponible en http://127.0.0.1:4205, API en 5095 conectada a Atlas. Se comprobaron las tres tareas demo desde Angular (05-lista-atlas.png). Servicios de prueba detenidos y base temporal limpiada. Quedan activos los servicios de demostración para revisión; detenerlos antes de ejecutar Verificar.ps1 en los mismos puertos.
+
+No quedan requisitos técnicos o de publicación pendientes. La autorización docente y fecha vigente de presentación no están confirmadas; no se realizó entrega académica.
+
